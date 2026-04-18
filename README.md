@@ -18,7 +18,7 @@ I am a results-driven ML Engineer and recent graduate of **Ain Shams University*
 
 ### 📊 Featured Projects
 
-- **[Credit Card Fraud Detection System](https://github.com/ather8/Fraud_Detection_System)** — *Graduation Project (Grade: A)*
+- **[Fraud Detection System](https://github.com/ather8/Fraud_Detection_System)** — *Graduation Project (Grade: A)*
   - Full-stack fraud detection platform combining **Isolation Forest** and **Autoencoders** to flag anomalous transactions on highly imbalanced data.
   - Production-style architecture: **FastAPI** backend, **React/TypeScript** dashboard, **PostgreSQL** for transaction logs, fully orchestrated with **Docker Compose**.
 
