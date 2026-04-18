@@ -2,7 +2,7 @@
 
 ### Machine Learning Engineer | B.Sc. Electrical Engineering (2024)
 
-I am a results-driven ML Engineer and recent graduate of **Ain Shams University** with a **3.7/4.0 Graduation Project GPA**. Since graduating, I have focused on mastering production-level AI through **8 industry certifications** from Stanford, IBM, and DeepLearning.AI — and on shipping end-to-end ML systems, from data exploration all the way to containerized deployment.
+I am a results-driven ML Engineer and graduate of **Ain Shams University** with a **3.7/4.0 Graduation Project GPA**. Since graduating, I have focused on mastering production-level AI through **8 industry certifications** from Stanford, IBM, and DeepLearning.AI — and on shipping end-to-end ML systems, from data exploration all the way to containerized deployment.
 
 ---
 
