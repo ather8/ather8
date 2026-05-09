@@ -38,9 +38,32 @@ I am a results-driven ML Engineer and graduate of **Ain Shams University** with 
 
 ### 📜 Certified Expertise
 
-- **Stanford University & DeepLearning.AI:** Machine Learning Specialization
-- **IBM:** Professional Certificate in AI & Deep Learning
-- **KodeKloud:** Docker for ML Deployment
+#### 🏛️ Stanford & DeepLearning.AI
+
+| Certificate Name | Issuer | Verification |
+| :--- | :--- | :---: |
+| Supervised Machine Learning | Stanford / DL.AI | [Verify Official Record](https://coursera.org/verify/2M8Y6KVACWCN) |
+| Advanced Learning Algorithms | Stanford / DL.AI | [Verify Official Record](https://coursera.org/verify/XGUEQRD9IL53) |
+| Unsupervised Learning, Recommenders, RL | Stanford / DL.AI | [Verify Official Record](https://coursera.org/verify/74OLOK7O4GG2) |
+| Neural Networks and Deep Learning | DeepLearning.AI | [Verify Official Record](https://coursera.org/verify/MB1901TQOOXL) |
+
+#### 💻 IBM Professional Certifications
+
+| Certificate Name | Issuer | Verification |
+| :--- | :--- | :---: |
+| Machine Learning with Python | IBM | [Verify Official Record](https://coursera.org/verify/WCZCDDFTHVSC) |
+| Introduction to Deep Learning & Neural Networks with Keras | IBM | [Verify Official Record](https://coursera.org/verify/WK40ZAUFNVZU) |
+| Deep Learning with Keras & TensorFlow | IBM | [Verify Official Record](https://coursera.org/verify/ZWMFZU5RQ7M7) |
+| Introduction to Neural Networks and PyTorch | IBM | [Verify Official Record](https://coursera.org/verify/62ON4TGSHYYZ) |
+| Deep Learning with PyTorch | IBM | [Verify Official Record](https://coursera.org/verify/QFF25B5F803I) |
+
+
+#### 🐳 DevOps & Infrastructure
+
+| Certificate Name | Issuer | Verification |
+| :--- | :--- | :---: |
+| Docker Training for Absolute Beginners | KodeKloud | [Verify Official Record](https://learn.kodekloud.com/user/certificate/1f969372-5641-40ff-806b-35dae9acf4b9) |
+
 
 ---
 
