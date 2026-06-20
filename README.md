@@ -2,17 +2,18 @@
 
 ### Machine Learning Engineer | B.Sc. Electrical Engineering (2024)
 
-I am a results-driven ML Engineer and graduate of **Ain Shams University** with a **3.7/4.0 Graduation Project GPA**. Since graduating, I have focused on mastering production-level AI through **8 industry certifications** from Stanford, IBM, and DeepLearning.AI — and on shipping end-to-end ML systems, from data exploration all the way to containerized deployment.
+I am a results-driven ML Engineer and graduate of **Ain Shams University** with a **3.7/4.0 Graduation Project GPA**. Since graduating, I have focused on mastering production-level AI through **13 industry certifications** from Stanford, IBM, and DeepLearning.AI — and on shipping end-to-end ML systems, from data exploration all the way to containerized deployment.
 
 ---
 
 ### 🚀 Technical Specialization
 
 - **Core ML & Deep Learning:** Supervised & Unsupervised Learning, Anomaly Detection (Isolation Forest, Autoencoders), CNNs, Reinforcement Learning, Ensemble Methods (XGBoost, Random Forest), Logistic Regression.
-- **Data Engineering:** Handling extreme class imbalance (SMOTE, class weighting), Feature Engineering, Exploratory Data Analysis, data preprocessing pipelines with `scikit-learn` and `pandas`.
-- **MLOps & Deployment:** Building REST APIs with **FastAPI**, containerization with **Docker** & **Docker Compose**, model serialization, PostgreSQL for prediction logging.
-- **Full-Stack for ML:** **React + TypeScript + Vite** frontends to expose ML models through clean, interactive UIs.
-- **Languages & Tools:** Python, TypeScript, SQL, Git, TensorFlow/Keras, PyTorch, scikit-learn, NumPy, Matplotlib, Seaborn.
+- **Generative AI & LLMs:** Prompt engineering, fine‑tuning, embeddings, RAG pipelines with vector databases, foundational models for **NLP & language understanding**, architecture & data preparation for LLMs.
+- **Data Engineering:** Handling extreme class imbalance (SMOTE, class weighting), Feature Engineering, Exploratory Data Analysis, preprocessing pipelines with `scikit-learn` and `pandas`.
+- **MLOps & Deployment:** REST APIs with **FastAPI**, JWT authentication, RBAC, containerization with **Docker** & **Docker Compose**, Supabase/Postgres for production databases, Redis for caching and background jobs.
+- **Full‑Stack for ML:** **React + TypeScript + Vite** frontends to expose ML models through clean, interactive UIs; TailwindCSS for modern styling.
+- **Languages & Tools:** Python, TypeScript, SQL, Git, TensorFlow/Keras, PyTorch, LangChain, scikit‑learn, NumPy, Matplotlib, Seaborn.
 
 ---
 
@@ -30,9 +31,9 @@ I am a results-driven ML Engineer and graduate of **Ain Shams University** with 
   - Predictive modeling on socio-economic data to classify whether income exceeds $50K/year.
   - Featured categorical encoding, handling missing values, and a comparative study of **Random Forest**, **Logistic Regression**, and gradient-boosted models.
 
-- **[Digit Recognizer with CNN](https://github.com/ather8/Digit-Recognizer-with-CNN)**
-  - Convolutional Neural Network built in **TensorFlow/Keras** achieving **99.2% accuracy** on the MNIST dataset.
-  - Includes data augmentation, dropout regularization, and learning-rate scheduling.
+- **[Game Hub](https://github.com/ather8/game-hub)**
+  - A modern **React + TypeScript + Vite** application showcasing clean UI design and responsive layouts.
+  - Integrates **TailwindCSS** for styling, reusable components, and API-driven data fetching to display dynamic game content.
 
 ---
 
@@ -56,6 +57,9 @@ I am a results-driven ML Engineer and graduate of **Ain Shams University** with 
 | Deep Learning with Keras & TensorFlow | IBM | [Verify Official Record](https://coursera.org/verify/ZWMFZU5RQ7M7) |
 | Introduction to Neural Networks and PyTorch | IBM | [Verify Official Record](https://coursera.org/verify/62ON4TGSHYYZ) |
 | Deep Learning with PyTorch | IBM | [Verify Official Record](https://coursera.org/verify/QFF25B5F803I) |
+| AI Capstone Project with Deep Learning | IBM | [Verify Official Record](https://coursera.org/verify/2KPR40KM1EYI) |
+| Generative AI and LLMs: Architecture and Data Preparation | IBM | [Verify Official Record](https://coursera.org/verify/DS4EY4UONHTL) |
+| Gen AI Foundational Models for NLP & Language Understanding | IBM | [Verify Official Record](https://coursera.org/verify/CQUX8QFHP1KV) |
 
 
 #### 🐳 DevOps & Infrastructure
