@@ -1,39 +1,48 @@
 # Hi, I'm Ather Sayed 👋
 
-### Machine Learning Engineer | B.Sc. Electrical Engineering (2024)
+### Software Engineer | B.Sc. Electrical Engineering (2024)
 
-I am a results-driven ML Engineer and graduate of **Ain Shams University** with a **3.7/4.0 Graduation Project GPA**. Since graduating, I have focused on mastering production-level AI through **13 industry certifications** from Stanford, IBM, and DeepLearning.AI — and on shipping end-to-end ML systems, from data exploration all the way to containerized deployment.
+I'm a Software Engineer who has shipped a **live, production-deployed AI-powered hospital management platform** (FastAPI, React, PostgreSQL, RAG/LLM features), a real-time **Credit Card Fraud Detection system**, and a **deep learning model for breast cancer detection**. I'm a graduate of **Ain Shams University** (B.Sc. Electrical Engineering — Computer & Systems, 2024) with strong foundations in data structures, algorithms, OOP, and software design — and **13 AI/ML certifications** from Stanford, DeepLearning.AI, and IBM spanning deep learning, computer vision, NLP, and LLMs.
+
+📍 Cairo, Egypt | 🟢 Open to Work
 
 ---
 
-### 🚀 Technical Specialization
+### 🚀 Technical Skills
 
-- **Core ML & Deep Learning:** Supervised & Unsupervised Learning, Anomaly Detection (Isolation Forest, Autoencoders), CNNs, Reinforcement Learning, Ensemble Methods (XGBoost, Random Forest), Logistic Regression.
-- **Generative AI & LLMs:** Prompt engineering, fine‑tuning, embeddings, RAG pipelines with vector databases, foundational models for **NLP & language understanding**, architecture & data preparation for LLMs.
-- **Data Engineering:** Handling extreme class imbalance (SMOTE, class weighting), Feature Engineering, Exploratory Data Analysis, preprocessing pipelines with `scikit-learn` and `pandas`.
-- **MLOps & Deployment:** REST APIs with **FastAPI**, JWT authentication, RBAC, containerization with **Docker** & **Docker Compose**, Supabase/Postgres for production databases, Redis for caching and background jobs.
-- **Full‑Stack for ML:** **React + TypeScript + Vite** frontends to expose ML models through clean, interactive UIs; TailwindCSS for modern styling.
-- **Languages & Tools:** Python, TypeScript, SQL, Git, TensorFlow/Keras, PyTorch, LangChain, scikit‑learn, NumPy, Matplotlib, Seaborn.
+- **Languages:** Python, TypeScript, JavaScript, SQL, HTML5, CSS3
+- **Web Development:** React, Vite, Tailwind CSS, shadcn/ui, REST APIs, Responsive Design, Chakra UI, Node.js (basics)
+- **Backend & MLOps:** FastAPI, REST APIs, Docker, Docker Compose, PostgreSQL, SQL, Git, GitHub, Linux, CI/CD, Model Deployment
+- **Software Engineering:** Object-Oriented Programming, Data Structures & Algorithms, Software Design, Testing, Code Review, Agile/Scrum
+- **Machine Learning:** Supervised & Unsupervised Learning, Deep Learning, CNNs, Transfer Learning, Reinforcement Learning, XGBoost, Anomaly Detection, Model Evaluation, Hyperparameter Tuning
+- **Computer Vision:** Image Classification, Medical Imaging, OpenCV, Data Augmentation, ONNX Inference
+- **Generative AI & NLP:** Large Language Models (LLMs), Generative AI, Transformer Architecture, Foundational Models, NLP, RAG (FAISS)
+- **Foundations:** Linear Algebra, Calculus, Probability & Statistics, Data Preprocessing, Feature Engineering
+- **Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn, Hugging Face
 
 ---
 
 ### 📊 Featured Projects
 
-- **[Fraud Detection System](https://github.com/ather8/Fraud_Detection_System)**
-  - Full-stack fraud detection platform combining **Isolation Forest** and **Autoencoders** to flag anomalous transactions on highly imbalanced data.
-  - Production-style architecture: **FastAPI** backend, **React/TypeScript** dashboard, **PostgreSQL** for transaction logs, fully orchestrated with **Docker Compose**.
+- **[AI-Powered Hospital Management System](https://github.com/ather8/AI-Powered-Hospital-System)** — [🔗 Live Demo](https://ai-powered-hospital-system.vercel.app/)
+  - Full-stack, AI-powered hospital management platform with JWT auth, Google OAuth, and role-based access control across five roles (admin, doctor, nurse, receptionist, patient).
+  - Core hospital modules: patients, doctors, appointment scheduling with conflict detection, EMR with audit trail, and line-item billing.
+  - AI features: multi-turn triage chatbot, medical report summarization, structured clinical notes, and a RAG-based clinical search pipeline (FAISS + LLM) with OCR document ingestion.
+  - Stack: **FastAPI**, **React/TypeScript**, **PostgreSQL**, **Redis**, **Docker Compose** — deployed to production on Vercel, Railway, and Supabase.
 
-- **[Breast Cancer Detection](https://github.com/ather8/Breast_Cancer_Detection)**
-  - Binary classification on the Wisconsin Breast Cancer dataset to distinguish malignant from benign tumors.
-  - End-to-end pipeline covering EDA, feature scaling, model comparison (Logistic Regression, SVM, Random Forest) and evaluation with precision/recall and ROC-AUC.
+- **[Full-Stack Credit Card Fraud Detection System](https://github.com/ather8/Fraud_Detection_System)**
+  - End-to-end fraud detection platform pairing an unsupervised **Isolation Forest** model with a real-time scoring API and analyst-facing dashboard.
+  - **FastAPI** backend scores transactions on demand and persists flagged events to a **PostgreSQL** Incident Log for auditing.
+  - **React + Vite + Tailwind + shadcn/ui** dashboard for live monitoring and incident triage; fully containerized with **Docker Compose**.
 
-- **[Adult Census Income Classification](https://github.com/ather8/Adult_Census_Income_Classification)**
-  - Predictive modeling on socio-economic data to classify whether income exceeds $50K/year.
-  - Featured categorical encoding, handling missing values, and a comparative study of **Random Forest**, **Logistic Regression**, and gradient-boosted models.
+- **[Game Hub — Game Discovery Web App](https://github.com/ather8/game-hub)** — [🔗 Live Demo](https://game-hub-six-tau.vercel.app/)
+  - Responsive, production-deployed web app for discovering games, with dynamic filtering, search, sorting, and platform/genre browsing.
+  - Architected reusable, type-safe **React + TypeScript** components and custom hooks, integrating a third-party REST API with loading states and error handling.
+  - Styled with **Tailwind CSS** for a clean, modern UI.
 
-- **[Game Hub](https://github.com/ather8/game-hub)**
-  - A modern **React + TypeScript + Vite** application showcasing clean UI design and responsive layouts.
-  - Integrates **TailwindCSS** for styling, reusable components, and API-driven data fetching to display dynamic game content.
+- **[Breast Cancer Detection using Deep Learning](https://github.com/ather8/Breast_Cancer_Detection)**
+  - Transfer learning pipeline (**VGG16**) with two-phase fine-tuning to detect Invasive Ductal Carcinoma across 280,000+ histopathology image patches, using **OpenCV** preprocessing and data augmentation.
+  - Result: **~94% accuracy, 0.99 AUC, ~98% recall** — critical for minimizing missed cancer diagnoses.
 
 ---
 
@@ -61,17 +70,16 @@ I am a results-driven ML Engineer and graduate of **Ain Shams University** with 
 | Generative AI and LLMs: Architecture and Data Preparation | IBM | [Verify Official Record](https://coursera.org/verify/DS4EY4UONHTL) |
 | Gen AI Foundational Models for NLP & Language Understanding | IBM | [Verify Official Record](https://coursera.org/verify/CQUX8QFHP1KV) |
 
-
 #### 🐳 DevOps & Infrastructure
 
 | Certificate Name | Issuer | Verification |
 | :--- | :--- | :---: |
 | Docker Training for Absolute Beginners | KodeKloud | [Verify Official Record](https://learn.kodekloud.com/user/certificate/1f969372-5641-40ff-806b-35dae9acf4b9) |
 
-
 ---
 
 ### 📫 Connect with me
 
 - **LinkedIn:** [linkedin.com/in/ather-sayed](https://www.linkedin.com/in/ather-sayed)
+- **Portfolio:** [ather8-github-io.vercel.app](https://ather8-github-io.vercel.app/)
 - **Email:** athersayed8@gmail.com
