@@ -2,7 +2,7 @@
 
 ### Software Engineer | B.Sc. Electrical Engineering (2024)
 
-I'm a Software Engineer who has shipped a **live, production-deployed AI-powered hospital management platform** (FastAPI, React, PostgreSQL, RAG/LLM features), a real-time **Credit Card Fraud Detection system**, and a **deep learning model for breast cancer detection**. I'm a graduate of **Ain Shams University** (B.Sc. Electrical Engineering — Computer & Systems, 2024) with strong foundations in data structures, algorithms, OOP, and software design — and **13 AI/ML certifications** from Stanford, DeepLearning.AI, and IBM spanning deep learning, computer vision, NLP, and LLMs.
+I'm a Software Engineer who has shipped multiple **live, production-deployed** systems: an **AI-powered restaurant management platform** with XGBoost demand forecasting and Gemini LLM integration, an **AI-powered hospital management platform** (FastAPI, React, PostgreSQL, RAG/LLM features), and a real-time **Credit Card Fraud Detection system**. I'm a graduate of **Ain Shams University** (B.Sc. Electrical Engineering — Computer & Systems, 2024) with strong foundations in data structures, algorithms, OOP, and software design — and **13 AI/ML certifications** from Stanford, DeepLearning.AI, and IBM spanning deep learning, computer vision, NLP, and LLMs.
 
 📍 Cairo, Egypt | 🟢 Open to Work
 
@@ -23,6 +23,12 @@ I'm a Software Engineer who has shipped a **live, production-deployed AI-powered
 ---
 
 ### 📊 Featured Projects
+
+- **[AI-Powered Restaurant Management System](https://github.com/ather8/pizza-store)** — [🔗 Live Demo](https://pizza-store-frontend-iota.vercel.app)
+  - Full-stack restaurant management platform with JWT authentication and role-based access control across three roles (Admin, Manager, Cashier).
+  - **ML layer:** XGBoost demand forecasting model trained on 48,000 real restaurant orders with RandomizedSearchCV hyperparameter tuning — MAE of 1.74 units. Implements recursive 7-day multi-step forecasting with lag features and rolling averages.
+  - **LLM layer:** Natural language query interface using Google Gemini with template-based intent classification and three independent security layers including a read-only PostgreSQL user at the database level.
+  - Stack: **FastAPI**, **React/TypeScript**, **PostgreSQL**, **XGBoost**, **Gemini API**, **Tailwind CSS**, **Docker** — deployed live on Railway, Vercel, and Supabase.
 
 - **[AI-Powered Hospital Management System](https://github.com/ather8/AI-Powered-Hospital-System)** — [🔗 Live Demo](https://ai-powered-hospital-system.vercel.app/)
   - Full-stack, AI-powered hospital management platform with JWT auth, Google OAuth, and role-based access control across five roles (admin, doctor, nurse, receptionist, patient).
